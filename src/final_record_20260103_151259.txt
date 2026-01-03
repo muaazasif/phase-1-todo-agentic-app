@@ -1,0 +1,21 @@
+Final Todo Record
+==================================================
+Generated on: 2026-01-03 15:12:59
+
+Summary:
+Total Tasks: 2
+Completed Tasks: 1
+Incomplete Tasks: 1
+
+Task Details:
+--------------------------------------------------
+ID: 1
+Title: Test task 1
+Description: Description for test task 1
+Status: Complete
+------------------------------
+ID: 2
+Title: Test task 2
+Description: Description for test task 2
+Status: Incomplete
+------------------------------

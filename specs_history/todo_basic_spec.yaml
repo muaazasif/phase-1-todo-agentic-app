@@ -1,0 +1,25 @@
+project: Todo In-Memory Python Console App
+phase: Phase I - Basic Level
+description: |
+  Command-line Todo application storing tasks in memory.
+  Basic features: Add, Delete, Update, View, Mark Complete.
+technology:
+  language: Python
+  version: 3.13+
+  framework: None
+  tools: Claude Code, Spec-Kit Plus
+features:
+  - Add Task: User can add a task with title and description
+  - View Tasks: List all tasks with status indicators (Complete/Incomplete)
+  - Update Task: Update task title and description by ID
+  - Delete Task: Delete task by ID
+  - Mark Complete: Toggle task complete/incomplete
+constraints:
+  - No database; store tasks in memory
+  - Console application (CLI)
+  - Follow clean code principles
+deliverables:
+  - /src folder with Python code
+  - README.md
+  - CLAUDE.md
+  - Working console app demonstrating all features
